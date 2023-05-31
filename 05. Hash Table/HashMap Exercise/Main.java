@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         
         HashMapTest hash = new HashMapTest();
-        int[] nums = {8, 2, 4, 3};
+        int[] nums = {};
         System.out.println(hash.firstDuplicate(null));
         System.out.println(hash.firstNoneDuplicate(null));
 
